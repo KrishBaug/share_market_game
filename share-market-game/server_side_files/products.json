@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Tata Motors",
+      "stock_price": 960.16,
+      "fall_rise_range": [
+        0.2,
+        5.0
+      ]
+    },
+    {
+      "name": "Apple market shares",
+      "stock_price": 1885.37,
+      "fall_rise_range": [
+        0.1,
+        2.0
+      ]
+    },
+    {
+      "name": "Nivia Football Limited",
+      "stock_price": 820.38,
+      "fall_rise_range": [
+        0.05,
+        6.0
+      ]
+    },
+    {
+      "name": "Adani Birla PVT LTD",
+      "stock_price": 2090.88,
+      "fall_rise_range": [
+        0.01,
+        3.0
+      ]
+    }
+  ]
+}
